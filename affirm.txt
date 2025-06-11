@@ -1,0 +1,16 @@
+
+
+
+import random
+
+affirmations = [
+    "You are capable of amazing things.",
+    "Your feelings are valid.",
+    "Small progress is still progress.",
+    "You’re doing your best, and that’s enough.",
+    "You are not alone."
+]
+
+print("🌸 Your Affirmation for Today:")
+print(random.choice(affirmations))
+
